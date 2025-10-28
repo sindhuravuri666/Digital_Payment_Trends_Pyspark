@@ -26,6 +26,7 @@ Location – City or region of the transaction
 ⚙️ Setup & Installation Instructions
 1. Clone the Repository
 git clone https://github.com/sindhuravuri666/Digital_Payment_Trends_Pyspark.git
+
 cd DigitalPayments-Analysis
 
 2. Create and Activate a Virtual Environment (optional but recommended)
@@ -79,5 +80,6 @@ Key outcomes from this analysis include:
 🧭 Geographic or category-based spending patterns.
 
 💡 Data-driven recommendations for optimizing digital payment systems.
+
 
 
