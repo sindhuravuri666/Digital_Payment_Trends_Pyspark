@@ -1,4 +1,4 @@
-Digital Payments Analysis
+👉🏻Digital Payments Analysis
 
 This project focuses on analyzing transaction data to uncover key trends, insights, and behavioral patterns in the digital payments ecosystem.
 It highlights how payment volumes, methods, and customer usage have evolved, offering valuable insights for businesses, analysts, and fintech professionals.
@@ -79,3 +79,4 @@ Key outcomes from this analysis include:
 🧭 Geographic or category-based spending patterns.
 
 💡 Data-driven recommendations for optimizing digital payment systems.
+
